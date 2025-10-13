@@ -34,13 +34,6 @@ Clean Architecture | Microservices | Event-Driven Systems | CQRS | DDD
 🎬 **YouTube Channel:** Sharing insights on .NET, architecture, and cloud engineering.  
 👉 [Subscribe Here](https://www.youtube.com/@iamrahulpandey15)  
 
-🧾 **Recent Topics:**  
-- Clean Architecture in .NET Core 8  
-- Event Sourcing Explained with CQRS  
-- Building Scalable APIs using Azure Functions  
-- Async Programming Deep Dive in C#  
-
----
 
 ## 📫 Connect with Me  
 
