@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Rahul Pandey  
 
-💻 **Senior Staff Engineer @ Nagarro** | 🌩️ **Azure Certified Developer**  
+💻 **Associate Principal Engineer** | 🌩️ **Azure Certified Developer**  
 🚀 Building scalable, cloud-native, enterprise-grade .NET solutions for over a decade.  
 🎯 On a mission to simplify complex tech concepts & inspire developers through content and code.  
 
