@@ -1,4 +1,5 @@
-# 👋 Hey there, I'm Rahul Pandey  
+# 👋 Hey there, I'm Rahul Pandey                              ![Profile Views](https://komarev.com/ghpvc/?username=rahulpandey1589&color=blueviolet&style=flat-square)
+
 
 💻 **Associate Principal Engineer** | 🌩️ **Azure Certified Developer**  
 🚀 Building scalable, cloud-native, enterprise-grade .NET solutions for over a decade.  
@@ -20,15 +21,10 @@
 
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulpandey1589&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpandey1589&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulpandey1589&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🏆 Achievements  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rahulpandey1589&theme=tokyonight&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 🧰 Tech Stack  
 
