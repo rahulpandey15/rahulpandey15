@@ -8,15 +8,15 @@
 
 ## 🚀 GitHub Stats
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulpandey&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpandey&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulpandey&theme=tokyonight)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulpandey1589&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpandey1589&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulpandey1589&theme=tokyonight)
 
 ---
 
 ## 🏆 Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rahulpandey&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rahulpandey1589&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
