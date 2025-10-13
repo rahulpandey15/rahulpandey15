@@ -32,13 +32,13 @@ Clean Architecture | Microservices | Event-Driven Systems | CQRS | DDD
 ## 🎥 Featured Content  
 
 🎬 **YouTube Channel:** Sharing insights on .NET, architecture, and cloud engineering.  
-👉 [Subscribe Here](https://www.youtube.com/@iamrahulpandey15)  
+👉 [Subscribe Here](https://www.youtube.com/@KodeKernel)  
 
 
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rahulpandey15/)  
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@iamrahulpandey15)  
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@KodeKernel)  
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=for-the-badge)](https://x.com/imrahulpandey15)  
 [![GitHub Followers](https://img.shields.io/github/followers/rahulpandey1589?label=Follow&style=for-the-badge)](https://github.com/rahulpandey1589)
 
