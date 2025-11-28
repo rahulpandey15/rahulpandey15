@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Rahul Pandey</h1>
-<h3 align="center">Senior Engineer | .NET | Azure | Distributed Systems</h3>
+<div align="center">
+
+# 👋 Hey there, I'm **Rahul Pandey** ![Profile Views](https://komarev.com/ghpvc/?username=rahulpandey15&color=blueviolet&style=flat-square)
+
+### Senior Engineer • .NET • Azure • Distributed Systems
+
+</div>
 
 ---
 
@@ -33,38 +38,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rahulpandey15&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpandey15&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulpandey15&theme=react-dark" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulpandey15&theme=dracula&row=1&column=6" />
-</p>
-
----
 
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rahulpandey15/)  
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@KodeKernel)  
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=for-the-badge)](https://x.com/imrahulpandey15)  
-[![GitHub Followers](https://img.shields.io/github/followers/rahulpandey1589?label=Follow&style=for-the-badge)](https://github.com/rahulpandey15)
+[![GitHub Followers](https://img.shields.io/github/followers/rahulpandey15?label=Follow&style=for-the-badge)](https://github.com/rahulpandey15)
 ---
-
-## 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
 
