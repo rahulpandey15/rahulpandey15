@@ -41,6 +41,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [8. Entity Framework Core CRUD Example - Part 2](https://www.youtube.com/watch?v=X887uAq4Dww)
+- [7. Entity Framework Core CRUD Example - Part 1](https://www.youtube.com/watch?v=kHrCTOgBWGY)
+- [6. Entity Framework Core Relationships Tutorial | With Real Examples &amp; Code](https://www.youtube.com/watch?v=MlrhvQwGXcE)
+- [8. Forms in ASP.NET CORE MVC Explained | Beginner to Advanced Tutorial](https://www.youtube.com/watch?v=KX_ERkO5LlM)
+- [5. Fluent API with Entity Framework Core with Example](https://www.youtube.com/watch?v=OWN9e2FjO4k)
 <!-- YOUTUBE:END -->
 
 ---
