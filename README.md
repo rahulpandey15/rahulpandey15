@@ -36,21 +36,19 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+---
+
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-
-
-
-
-
+---
 
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rahulpandey15/)  
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@KodeKernel)  
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=for-the-badge)](https://x.com/imrahulpandey15)
----
 
+---
