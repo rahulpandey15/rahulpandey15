@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Pandey</h1>
-<h3 align="center">Senior Staff Engineer | .NET | Azure | Distributed Systems</h3>
+<h3 align="center">Senior Engineer | .NET | Azure | Distributed Systems</h3>
 
 ---
 
@@ -36,39 +36,35 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rahulpandey15&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpandey15&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulpandey15&theme=react-dark" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rahulpandey15&theme=dracula&row=1&column=6" />
 </p>
 
 ---
 
 ## 🔗 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/rahulpandey-dev" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:rahul@example.com">
-<img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rahulpandey15/)  
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@KodeKernel)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=for-the-badge)](https://x.com/imrahulpandey15)  
+[![GitHub Followers](https://img.shields.io/github/followers/rahulpandey1589?label=Follow&style=for-the-badge)](https://github.com/rahulpandey15)
 ---
 
-## 📺 Latest YouTube Videos (Auto Updated)
+## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
