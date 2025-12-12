@@ -41,11 +41,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to create Auditable Columns in Table using EFCore #backenddevelopment #databaseconcepts #coding](https://www.youtube.com/shorts/5lgvxdpq_Yw)
 - [Automatic Audit Fields in EF Core | Change Tracker Tutorial](https://www.youtube.com/watch?v=SHj_Kg0xmyc)
 - [Fetch using Stored Procedure in EF Core #dotnet #backenddevelopment  #databasemanagement #efcore](https://www.youtube.com/shorts/kxkOZPUuhYE)
 - [Execute Stored Procedures in EF Core | Complete Tutorial](https://www.youtube.com/watch?v=UiCDtrhOnGg)
 - [9.EF Core Migrate Database to Production Step by Step](https://www.youtube.com/watch?v=gBU9yLcBaIM)
-- [8. Entity Framework Core CRUD Example - Part 2](https://www.youtube.com/watch?v=X887uAq4Dww)
 <!-- YOUTUBE:END -->
 
 ---
