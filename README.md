@@ -41,11 +41,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Custom Middleware in .NET Core – Interview Ready Explanation](https://www.youtube.com/watch?v=nUpnJVrlBlU)
 - [What is Middleware in ASP.NET Core? Easy Explanation for Beginners](https://www.youtube.com/watch?v=KUnOtL4eiXE)
 - [How to create Auditable Columns in Table using EFCore #backenddevelopment #databaseconcepts #coding](https://www.youtube.com/shorts/5lgvxdpq_Yw)
 - [Automatic Audit Fields in EF Core | Change Tracker Tutorial](https://www.youtube.com/watch?v=SHj_Kg0xmyc)
 - [Fetch using Stored Procedure in EF Core #dotnet #backenddevelopment  #databasemanagement #efcore](https://www.youtube.com/shorts/kxkOZPUuhYE)
-- [Execute Stored Procedures in EF Core | Complete Tutorial](https://www.youtube.com/watch?v=UiCDtrhOnGg)
 <!-- YOUTUBE:END -->
 
 ---
