@@ -43,7 +43,7 @@
 <!-- YOUTUBE:START -->
 - [Option Pattern In NET Core](https://www.youtube.com/watch?v=-ANBMnLx9-8)
 - [Option Pattern in .NET Core](https://www.youtube.com/shorts/BrrLdvwCvcA)
-- [Up vs Down Method in EF Core Migrations | Complete Explanation](https://www.youtube.com/watch?v=OeEjnydTguE)
+- [11. Up vs Down Method in EF Core Migrations | Complete Explanation](https://www.youtube.com/watch?v=OeEjnydTguE)
 - [Custom Middleware in .NET Core – Interview Ready Explanation](https://www.youtube.com/shorts/URZ8h2cbpAY)
 - [Custom Middleware in .NET Core – Interview Ready Explanation](https://www.youtube.com/watch?v=nUpnJVrlBlU)
 <!-- YOUTUBE:END -->
