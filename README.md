@@ -41,11 +41,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Stop Writing Messy Code! | Dependency Injection in .NET Core Explained](https://www.youtube.com/shorts/6o--O-Q68WA)
 - [Stop Writing Messy Code! | Dependency Injection in .NET Core Explained](https://www.youtube.com/watch?v=pd69RgQLVoY)
 - [Option Pattern In NET Core](https://www.youtube.com/watch?v=-ANBMnLx9-8)
 - [Option Pattern in .NET Core](https://www.youtube.com/shorts/BrrLdvwCvcA)
 - [11. Up vs Down Method in EF Core Migrations | Complete Explanation](https://www.youtube.com/watch?v=OeEjnydTguE)
-- [Custom Middleware in .NET Core – Interview Ready Explanation](https://www.youtube.com/shorts/URZ8h2cbpAY)
 <!-- YOUTUBE:END -->
 
 ---
