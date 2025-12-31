@@ -41,11 +41,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AddSingleton vs AddScoped vs AddTransient](https://www.youtube.com/watch?v=Liz47bLsPPY)
 - [Remove Migration | Entity Framework Code First Approach](https://www.youtube.com/shorts/oMPsXpmJ5xk)
 - [Automate EF Core Migrations with Makefile #databaseconcepts #programming](https://www.youtube.com/shorts/6Fd4G5kZtew)
 - [What is  Dependency Injection in .NET Core](https://www.youtube.com/shorts/6o--O-Q68WA)
 - [Stop Writing Messy Code! | Dependency Injection in .NET Core Explained](https://www.youtube.com/watch?v=pd69RgQLVoY)
-- [Option Pattern In NET Core](https://www.youtube.com/watch?v=-ANBMnLx9-8)
 <!-- YOUTUBE:END -->
 
 ---
