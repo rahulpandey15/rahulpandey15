@@ -41,11 +41,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Fluent API with Entity Framework Core](https://www.youtube.com/shorts/KPs6Oarw0_U)
 - [EF Core Migrate Database to Production Step by Step](https://www.youtube.com/shorts/DmHeYAmTQwg)
 - [Forms in ASP.NET CORE MVC Explained | Beginner to Advanced Tutorial #programming #backenddevelopment](https://www.youtube.com/shorts/1y3yjMZw_Wg)
 - [AddSingleton vs AddScoped vs AddTransient](https://www.youtube.com/shorts/LSWheUCgpnU)
 - [AddSingleton vs AddScoped vs AddTransient](https://www.youtube.com/watch?v=Liz47bLsPPY)
-- [Remove Migration | Entity Framework Code First Approach](https://www.youtube.com/shorts/oMPsXpmJ5xk)
 <!-- YOUTUBE:END -->
 
 ---
