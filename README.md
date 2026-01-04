@@ -45,7 +45,7 @@
 - [EF Core Migrate Database to Production Step by Step](https://www.youtube.com/shorts/DmHeYAmTQwg)
 - [Forms in ASP.NET CORE MVC Explained | Beginner to Advanced Tutorial #programming #backenddevelopment](https://www.youtube.com/shorts/1y3yjMZw_Wg)
 - [AddSingleton vs AddScoped vs AddTransient](https://www.youtube.com/shorts/LSWheUCgpnU)
-- [AddSingleton vs AddScoped vs AddTransient](https://www.youtube.com/watch?v=Liz47bLsPPY)
+- [Why Your ASP.NET Core App Has Memory Issues &lpar;DI Lifetimes Explained&rpar;](https://www.youtube.com/watch?v=Liz47bLsPPY)
 <!-- YOUTUBE:END -->
 
 ---
