@@ -41,11 +41,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Token-Based Authentication in .NET Explained | JWT Step-by-Step](https://www.youtube.com/watch?v=HXod9zfPYfw)
 - [EF Core 7 Changed How You Update Data – Here’s the Better Way](https://www.youtube.com/watch?v=3gRpG6s1MYU)
 - [Fluent API with Entity Framework Core](https://www.youtube.com/shorts/KPs6Oarw0_U)
 - [EF Core Migrate Database to Production Step by Step](https://www.youtube.com/shorts/DmHeYAmTQwg)
 - [Forms in ASP.NET CORE MVC Explained | Beginner to Advanced Tutorial #programming #backenddevelopment](https://www.youtube.com/shorts/1y3yjMZw_Wg)
-- [AddSingleton vs AddScoped vs AddTransient](https://www.youtube.com/shorts/LSWheUCgpnU)
 <!-- YOUTUBE:END -->
 
 ---
