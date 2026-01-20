@@ -41,11 +41,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [1. What is ORM? | Object-Relational Mapping Explained#databaseconcepts #backenddevelopment](https://www.youtube.com/shorts/uGehcG72tS4)
 - [Json Web Token Components #backenddevelopment #programming](https://www.youtube.com/shorts/NnECLbl7c0E)
 - [Json Web Token Algorithm Explained #backenddevelopment #programming](https://www.youtube.com/shorts/vopUC8ATToE)
 - [Token-Based Authentication in .NET Explained | JWT Step-by-Step](https://www.youtube.com/watch?v=HXod9zfPYfw)
 - [EF Core 7 Changed How You Update Data – Here’s the Better Way](https://www.youtube.com/watch?v=3gRpG6s1MYU)
-- [Fluent API with Entity Framework Core](https://www.youtube.com/shorts/KPs6Oarw0_U)
 <!-- YOUTUBE:END -->
 
 ---
