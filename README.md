@@ -41,11 +41,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Stop passing plain text in QueryString | Use IDataProtector in Asp.net Core](https://www.youtube.com/watch?v=s0yYqgmG_z0)
 - [Attach Token Automatically in Http Request: Delegating Handler #dotnet #backenddevelopment #token](https://www.youtube.com/shorts/ah2QtjhODp8)
 - [Use of IHttpClientFactory in .NET Core #backenddevelopment #coding #dotnet](https://www.youtube.com/shorts/F4UCnBbNFFQ)
 - [ASP.NET Core MVC Secure API Calls | JWT + HttpClientFactory + Automatic Refresh Tokens](https://www.youtube.com/watch?v=RiYOemD1pzk)
 - [Refresh Token Explained  #token #authentication #dotnetcore](https://www.youtube.com/shorts/Dv0jSAddUB0)
-- [Refresh Token Explained  | Secure Authentication &amp; Token Renewal &lpar;JWT&rpar;](https://www.youtube.com/watch?v=TJWKobQ4-io)
 <!-- YOUTUBE:END -->
 
 ---
