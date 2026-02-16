@@ -41,11 +41,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Change Tracker in Entity Framework Core #backenddevelopment #coding #dotnet #efcore](https://www.youtube.com/shorts/QjY2D0pJmqI)
+- [Change Tracker in Entity Framework Core](https://www.youtube.com/watch?v=pC2XbknnOeY)
 - [Middleware vs Filter in Asp.net Core](https://www.youtube.com/shorts/rSNRA2apVG0)
 - [Middleware vs Filter in Asp.net Core](https://www.youtube.com/watch?v=zpKJX-Lw-Rw)
 - [Stop passing plain text in QueryString | Use IDataProtector in Asp.net Core](https://www.youtube.com/watch?v=s0yYqgmG_z0)
-- [Attach Token Automatically in Http Request: Delegating Handler #dotnet #backenddevelopment #token](https://www.youtube.com/shorts/ah2QtjhODp8)
-- [Use of IHttpClientFactory in .NET Core #backenddevelopment #coding #dotnet](https://www.youtube.com/shorts/F4UCnBbNFFQ)
 <!-- YOUTUBE:END -->
 
 ---
