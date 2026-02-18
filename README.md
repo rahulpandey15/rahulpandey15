@@ -41,11 +41,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Resolve Multiple Dependency Injection Implementations of the Same Interface in .NET](https://www.youtube.com/watch?v=VR0jn_1ae64)
 - [Change Tracker in Entity Framework Core #backenddevelopment #coding #dotnet #efcore](https://www.youtube.com/shorts/QjY2D0pJmqI)
 - [Change Tracker in Entity Framework Core](https://www.youtube.com/watch?v=pC2XbknnOeY)
 - [Middleware vs Filter in Asp.net Core](https://www.youtube.com/shorts/rSNRA2apVG0)
 - [Middleware vs Filter in Asp.net Core](https://www.youtube.com/watch?v=zpKJX-Lw-Rw)
-- [Stop passing plain text in QueryString | Use IDataProtector in Asp.net Core](https://www.youtube.com/watch?v=s0yYqgmG_z0)
 <!-- YOUTUBE:END -->
 
 ---
