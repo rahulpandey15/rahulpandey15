@@ -41,11 +41,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Understanding CORS with ASP.NET Core C#](https://www.youtube.com/watch?v=YcH5T3NIK3M)
 - [Role Based Authorization in AspNet  Core API](https://www.youtube.com/watch?v=FIRtVHbp764)
 - [How to Resolve Multiple Dependency Injection Implementations of the Same Interface in .NET](https://www.youtube.com/watch?v=VR0jn_1ae64)
 - [Change Tracker in Entity Framework Core #backenddevelopment #coding #dotnet #efcore](https://www.youtube.com/shorts/QjY2D0pJmqI)
 - [Change Tracker in Entity Framework Core](https://www.youtube.com/watch?v=pC2XbknnOeY)
-- [Middleware vs Filter in Asp.net Core](https://www.youtube.com/shorts/rSNRA2apVG0)
 <!-- YOUTUBE:END -->
 
 ---
