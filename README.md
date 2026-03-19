@@ -41,11 +41,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Stop Managing NuGet Packages Everywhere! Use Central Package Management in .NET](https://www.youtube.com/watch?v=aVuzhTK5cGk)
 - [What is Semantic Kernel #azureopenai #ai #microsoft](https://www.youtube.com/shorts/LqPn1FQgQmA)
 - [Framework Dependent vs Self Contained #dotnet  #dotnetcore #deployment](https://www.youtube.com/shorts/NUPbz_AoS7w)
 - [IaaS vs PaaS vs SaaS Explained | Cloud Computing Service Models](https://www.youtube.com/watch?v=3V67iunYN1I)
 - [Overview of Cloud Computing](https://www.youtube.com/watch?v=qkI18ihzcp0)
-- [Horizontal vs Vertical Scaling #systemdesign #aws #azure #gcp](https://www.youtube.com/shorts/tG2ydnapISU)
 <!-- YOUTUBE:END -->
 
 ---
