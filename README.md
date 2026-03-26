@@ -41,11 +41,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Overview of Rate Limiting | Protect your API&#39;s from Abuse.](https://www.youtube.com/watch?v=7urzuCCEW_w)
 - [Custom Middleware for Common API Response in ASP.NET Core Web API](https://www.youtube.com/watch?v=zP85qq4f3Pw)
 - [Stop Managing NuGet Packages Everywhere! Use Central Package Management in .NET](https://www.youtube.com/watch?v=aVuzhTK5cGk)
 - [What is Semantic Kernel #azureopenai #ai #microsoft](https://www.youtube.com/shorts/LqPn1FQgQmA)
 - [Framework Dependent vs Self Contained #dotnet  #dotnetcore #deployment](https://www.youtube.com/shorts/NUPbz_AoS7w)
-- [IaaS vs PaaS vs SaaS Explained | Cloud Computing Service Models](https://www.youtube.com/watch?v=3V67iunYN1I)
 <!-- YOUTUBE:END -->
 
 ---
