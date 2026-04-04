@@ -41,11 +41,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Common API Response in ASP.NET Core Web API #middleware #dotnet #dotnetcore](https://www.youtube.com/shorts/0b7fEMQRfPw)
 - [Overview of Rate Limiting #ratelimiting #dotnetcore](https://www.youtube.com/shorts/8JZZS8dhyig)
 - [Token Bucket Algorithm Explained | Rate Limiting Made Simple](https://www.youtube.com/watch?v=_z4UEt6A1xU)
 - [Overview of Rate Limiting | Protect your API&#39;s from Abuse.](https://www.youtube.com/watch?v=7urzuCCEW_w)
 - [Custom Middleware for Common API Response in ASP.NET Core Web API](https://www.youtube.com/watch?v=zP85qq4f3Pw)
-- [Stop Managing NuGet Packages Everywhere! Use Central Package Management in .NET](https://www.youtube.com/watch?v=aVuzhTK5cGk)
 <!-- YOUTUBE:END -->
 
 ---
