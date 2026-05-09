@@ -41,11 +41,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [.NET Core API Project Series | Part 4: Setting Up Generic Repository](https://www.youtube.com/watch?v=TgwBSGknSe8)
 - [.NET Core API Project Series | Part 3: Setting Up Database, EFCore Migrations](https://www.youtube.com/watch?v=gR58W9itXgg)
 - [.NET Core API Project Series | Part 2: Setting Infra Layer](https://www.youtube.com/watch?v=gX2U23X6K44)
 - [.NET Core API Project Series | Part 1: Project Setup](https://www.youtube.com/watch?v=PJ5RJ5MoyAs)
 - [Common API Response in ASP.NET Core Web API #middleware #dotnet #dotnetcore](https://www.youtube.com/shorts/0b7fEMQRfPw)
-- [Overview of Rate Limiting #ratelimiting #dotnetcore](https://www.youtube.com/shorts/8JZZS8dhyig)
 <!-- YOUTUBE:END -->
 
 ---
