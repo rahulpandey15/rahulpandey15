@@ -41,11 +41,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Overview of Clean Architecture #coding #cleanarchitecture  #backenddevelopment #dotnetcore](https://www.youtube.com/shorts/bCz64zs-Y8M)
 - [.NET Core Backend API | End to End Implementation #dotnet #coding #backenddevelopment](https://www.youtube.com/shorts/vslzw6R5kNA)
 - [.NET Core API Project Series | Part 5: Setting Up Application Layer](https://www.youtube.com/watch?v=cHiqKH5kLd8)
 - [.NET Core API Project Series | Part 4: Setting Up Generic Repository](https://www.youtube.com/watch?v=TgwBSGknSe8)
 - [.NET Core API Project Series | Part 3: Setting Up Database, EFCore Migrations](https://www.youtube.com/watch?v=gR58W9itXgg)
-- [.NET Core API Project Series | Part 2: Setting Infra Layer](https://www.youtube.com/watch?v=gX2U23X6K44)
 <!-- YOUTUBE:END -->
 
 ---
