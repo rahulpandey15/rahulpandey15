@@ -41,11 +41,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [.NET Core API Project Series | Part 7:  Custom Middleware](https://www.youtube.com/watch?v=PWNhxWi8uCE)
 - [.NET Core API Project Series | Part 6: Token Based Authentication](https://www.youtube.com/watch?v=Pgeqs3O8Vvw)
 - [.NET Core API Project Series | Part 2: Setting Infra Layer #dotnet #coding #backenddevelopment](https://www.youtube.com/shorts/ICnZFoiWNf4)
 - [.NET Core API Project Series | Part 4: Setting Up Generic Repository #dotnetcore  #repository](https://www.youtube.com/shorts/_Rvz3XjfgDc)
 - [Overview of Clean Architecture #coding #cleanarchitecture  #backenddevelopment #dotnetcore](https://www.youtube.com/shorts/bCz64zs-Y8M)
-- [.NET Core Backend API | End to End Implementation #dotnet #coding #backenddevelopment](https://www.youtube.com/shorts/vslzw6R5kNA)
 <!-- YOUTUBE:END -->
 
 ---
