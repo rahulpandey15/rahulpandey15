@@ -41,11 +41,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [.NET Core API Project Series | Part 10-Retry Logic in .NET Explained](https://www.youtube.com/watch?v=JHpdmoesGjY)
 - [.NET Core API Project Series | Part 9-Structured Logging Using Seq](https://www.youtube.com/watch?v=927rYv5o2jM)
 - [.NET Core API Project Series | Part 8:  Health Check](https://www.youtube.com/watch?v=extgfmWwTjo)
 - [.NET Core API Project Series | Part 7:  Custom Middleware](https://www.youtube.com/watch?v=PWNhxWi8uCE)
 - [.NET Core API Project Series | Part 6: Token Based Authentication](https://www.youtube.com/watch?v=Pgeqs3O8Vvw)
-- [.NET Core API Project Series | Part 2: Setting Infra Layer #dotnet #coding #backenddevelopment](https://www.youtube.com/shorts/ICnZFoiWNf4)
 <!-- YOUTUBE:END -->
 
 ---
