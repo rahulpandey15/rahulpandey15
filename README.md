@@ -9,9 +9,9 @@
 ---
 
 ## 🚀 About Me
-- 💼 12+ years building **large-scale, multi-tenant enterprise systems**
+- 💼 14+ years building **large-scale, multi-tenant enterprise systems**
 - 🏗️ Strong in **Architecture** — Clean Architecture, CQRS, Event Sourcing, DDD
-- 🔥 Expertise: **.NET Core 8, C#, React, Angular, Azure, Python**
+- 🔥 Expertise: **.NET Core, C#, React, Angular, Azure, Python**
 - ☁️ Certified Azure developer, experienced in serverless & microservices
 - 🧪 Advocate of **TDD**, maintainability, and engineering excellence
 - 🎯 Currently exploring **GenAI, Azure AI Studio & Event-driven architecture**
