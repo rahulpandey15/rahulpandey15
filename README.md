@@ -6,17 +6,37 @@
 
 </div>
 
----
 
-## 🚀 About Me
-- 💼 14+ years building **large-scale, multi-tenant enterprise systems**
-- 🏗️ Strong in **Architecture** — Clean Architecture, CQRS, Event Sourcing, DDD
-- 🔥 Expertise: **.NET Core, C#, React, Angular, Azure, Python**
-- ☁️ Certified Azure developer, experienced in serverless & microservices
-- 🧪 Advocate of **TDD**, maintainability, and engineering excellence
-- 🎯 Currently exploring **GenAI, Azure AI Studio & Event-driven architecture**
+I'm a **Senior Full Stack & Solutions Architect** with over 14 years of experience building scalable, multi-tenant enterprise applications. I specialize in designing robust backend systems, cloud architectures, and modern web applications that prioritize performance, maintainability, and clean code.
+
+Outside of core software development, I actively share my tech journey, architecture insights, and practical coding tutorials on YouTube.
 
 ---
+
+### 💻 What I Do
+
+* **Architecture & Backend Design:** Clean Architecture, Microservices, CQRS, Event-Driven Systems, Domain-Driven Design (DDD).
+* **Cloud & DevOps:** Designing and deploying scalable infrastructure on **Azure** (Certified Developer) & **AWS**, leveraging serverless, containerization, and modern cloud patterns.
+* **Full-Stack Development:** C#, .NET Core, Web APIs, React, Angular, and Python.
+* **AI & Innovation:** Currently exploring **GenAI**, **LLM orchestration**, and **Azure AI Studio** integration.
+* **Engineering Standards:** Strong advocate for Test-Driven Development (TDD), CI/CD automation, and maintainable codebases.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** C#, Python, TypeScript, JavaScript, SQL
+* **Frameworks & Ecosystem:** .NET Core / .NET, ASP.NET Core, React, Angular, Entity Framework Core
+* **Cloud & Infrastructure:** Azure, AWS, Docker, Kubernetes, Serverless Architecture
+* **Messaging & Databases:** Azure Service Bus, RabbitMQ, Kafka, SQL Server, PostgreSQL, MongoDB
+
+---
+
+### 🎥 Content Creation
+
+When I'm not writing code or designing systems, I build technical content for developers.
+
+* 📺 **YouTube:** [@DevBeyondCode](https://www.google.com/search?q=https://youtube.com/devbeyondcode) — Deep dives into .NET, System Design, Cloud Architecture, and modern dev tools.
 
 ## 🛠️ Tech Stack
 
