@@ -15,6 +15,7 @@ Outside of core software development, I actively share my tech journey, architec
 
 ### 💻 What I Do
 
+* Currently associated with Nagarro as Associate Principal Engineer.
 * **Architecture & Backend Design:** Clean Architecture, Microservices, CQRS, Event-Driven Systems, Domain-Driven Design (DDD).
 * **Cloud & DevOps:** Designing and deploying scalable infrastructure on **Azure** (Certified Developer) & **AWS**, leveraging serverless, containerization, and modern cloud patterns.
 * **Full-Stack Development:** C#, .NET Core, Web APIs, React, Angular, and Python.
