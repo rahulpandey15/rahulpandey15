@@ -62,11 +62,11 @@ When I'm not writing code or designing systems, I build technical content for de
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Resilience in .NET #dotnetcore #resilience](https://www.youtube.com/shorts/7hhBbWT4WyY)
 - [Avoid This Common EF Core Mistake with Optimistic Concurrency](https://www.youtube.com/watch?v=vdK2BqWVRO0)
 - [.NET Core API Project Series | Part 10-Retry Logic in .NET Explained](https://www.youtube.com/watch?v=JHpdmoesGjY)
 - [.NET Core API Project Series | Part 9-Structured Logging Using Seq](https://www.youtube.com/watch?v=927rYv5o2jM)
 - [.NET Core API Project Series | Part 8:  Health Check](https://www.youtube.com/watch?v=extgfmWwTjo)
-- [.NET Core API Project Series | Part 7:  Custom Middleware](https://www.youtube.com/watch?v=PWNhxWi8uCE)
 <!-- YOUTUBE:END -->
 
 ---
