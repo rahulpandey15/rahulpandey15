@@ -62,11 +62,11 @@ When I'm not writing code or designing systems, I build technical content for de
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Polling vs Webhooks #systemdesign #backend](https://www.youtube.com/shorts/53XkWyWqg7E)
 - [NET Core API Project Series | Part 11- Caching](https://www.youtube.com/watch?v=wZfm6gmy8dY)
 - [Resilience in .NET #dotnetcore #resilience](https://www.youtube.com/shorts/7hhBbWT4WyY)
 - [Avoid This Common EF Core Mistake with Optimistic Concurrency](https://www.youtube.com/watch?v=vdK2BqWVRO0)
 - [.NET Core API Project Series | Part 10-Retry Logic in .NET Explained](https://www.youtube.com/watch?v=JHpdmoesGjY)
-- [.NET Core API Project Series | Part 9-Structured Logging Using Seq](https://www.youtube.com/watch?v=927rYv5o2jM)
 <!-- YOUTUBE:END -->
 
 ---
