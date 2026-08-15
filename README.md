@@ -62,7 +62,7 @@ When I'm not writing code or designing systems, I build technical content for de
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Azure IaaS Tutorial for Beginners | Create a Virtual Machine](https://www.youtube.com/watch?v=3QkXTrWcTis)
+- [Azure IAAS | How to deploy API on Azure Virtual Machine.](https://www.youtube.com/watch?v=3QkXTrWcTis)
 - [Redis Caching in ASP.NET Core Web API | Improve API Performance – Part 11](https://www.youtube.com/watch?v=wZfm6gmy8dY)
 - [Resilience in .NET #dotnetcore #resilience](https://www.youtube.com/shorts/7hhBbWT4WyY)
 - [Avoid This Common EF Core Mistake with Optimistic Concurrency](https://www.youtube.com/watch?v=vdK2BqWVRO0)
