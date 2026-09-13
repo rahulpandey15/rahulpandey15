@@ -62,11 +62,11 @@ When I'm not writing code or designing systems, I build technical content for de
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Refresh Token in ASP.NET Core Web API | Secure JWT Authentication | .NET 10](https://www.youtube.com/watch?v=NUUny-VN6lg)
 - [Azure Virtual Machine &lpar;VM&rpar; Tutorial | Infrastructure as a Service &lpar;IaaS&rpar;](https://www.youtube.com/watch?v=Ar4j6whnAMQ)
 - [Redis Caching in ASP.NET Core Web API | Improve API Performance – Part 11](https://www.youtube.com/watch?v=wZfm6gmy8dY)
 - [Resilience in .NET #dotnetcore #resilience](https://www.youtube.com/shorts/7hhBbWT4WyY)
 - [Avoid This Common EF Core Mistake with Optimistic Concurrency](https://www.youtube.com/watch?v=vdK2BqWVRO0)
-- [Retry Logic in .NET | Resilience &amp; API Failure Handling – Part 10](https://www.youtube.com/watch?v=JHpdmoesGjY)
 <!-- YOUTUBE:END -->
 
 ---
