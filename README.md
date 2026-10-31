@@ -62,11 +62,11 @@ When I'm not writing code or designing systems, I build technical content for de
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Build Your First AI Agent in C# with Microsoft Agent Framework &lpar;.NET 10&rpar;](https://www.youtube.com/watch?v=wc05lFtshhc)
+- [Microsoft Agent Framework in C#: AI Agents Without Python](https://www.youtube.com/watch?v=XiBFsnrX_AU)
 - [Background Jobs using Hangfire | NET 10](https://www.youtube.com/watch?v=PnFcgDdwQrY)
 - [Refresh Token in ASP.NET Core Web API | Secure JWT Authentication | .NET 10](https://www.youtube.com/watch?v=NUUny-VN6lg)
 - [Azure Virtual Machine &lpar;VM&rpar; Tutorial | Infrastructure as a Service &lpar;IaaS&rpar;](https://www.youtube.com/watch?v=Ar4j6whnAMQ)
-- [Redis Caching in ASP.NET Core Web API | Improve API Performance – Part 11](https://www.youtube.com/watch?v=wZfm6gmy8dY)
-- [Resilience in .NET #dotnetcore #resilience](https://www.youtube.com/shorts/7hhBbWT4WyY)
 <!-- YOUTUBE:END -->
 
 ---
