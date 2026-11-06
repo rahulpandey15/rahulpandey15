@@ -62,11 +62,11 @@ When I'm not writing code or designing systems, I build technical content for de
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AI Agent Tools in C#: Function Calling with Microsoft Agent Framework &lpar;.NET 10&rpar;](https://www.youtube.com/shorts/ce4A9BogcP4)
+- [Build Your First AI Agent in C# with Microsoft Agent Framework &lpar;.NET 10&rpar;](https://www.youtube.com/shorts/cMMCanEnNvw)
 - [AI Agent Tools in C#: Function Calling with Microsoft Agent Framework &lpar;.NET 10&rpar;](https://www.youtube.com/watch?v=eDYZTiTiaBw)
 - [Hangfire with .NET | Background Jobs using Clean Architecture](https://www.youtube.com/shorts/R82vfyT5zAg)
 - [Introduction to Microsoft Agent Framework. #dotnet #agents](https://www.youtube.com/shorts/nFiT_vO38MY)
-- [Build Your First AI Agent in C# with Microsoft Agent Framework &lpar;.NET 10&rpar;](https://www.youtube.com/watch?v=wc05lFtshhc)
-- [Microsoft Agent Framework in C#: AI Agents Without Python](https://www.youtube.com/watch?v=XiBFsnrX_AU)
 <!-- YOUTUBE:END -->
 
 ---
